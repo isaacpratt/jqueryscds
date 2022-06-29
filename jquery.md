@@ -1,6 +1,7 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js?ver=6.0' id='bootstrap-js-js'></script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js?ver=6.0' id='lightbox-js'></script>
 
-<script src="/toolkit.js"></script>
 
 <div class="tool-kit-content-section">
 <div class="content-section">
@@ -864,3 +865,5 @@ Visit Website </a>
 </div>
 </div>
 </div>
+
+<script src="/toolkit.js"></script>
