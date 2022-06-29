@@ -1,14 +1,12 @@
 <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
 <script src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js?ver=6.0' id='bootstrap-js-js'></script>
 <script src='https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.min.js?ver=6.0' id='lightbox-js'></script>
+<link rel='stylesheet' id='bootstrap-css-css' href='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css?ver=6.0' media='all' />
+<link rel='stylesheet' id='lightbox-css-css' href='https://cdnjs.cloudflare.com/ajax/libs/ekko-lightbox/5.3.0/ekko-lightbox.css?ver=6.0' media='all' />
+<link rel='stylesheet' id='earthdefenderstoolkit-style-base-css' href='https://www.earthdefenderstoolkit.com/wp-content/themes/earthdefenderstoolkit/style.css?ver=57' media='all' />
+<link rel='stylesheet' id='earthdefenderstoolkit-style-css' href='https://www.earthdefenderstoolkit.com/wp-content/themes/earthdefenderstoolkit/style-edt.css?ver=44' media='all' />
 
 
-<div class="tool-kit-content-section">
-<div class="content-section">
-
-<p>Have you tried to find a tool to help your community take action, only to be overwhelmed by the range and extent of options? </p>
-<p>You are not alone. There are numerous tools that may be useful to earth defender communities, and it can be difficult to figure out which ones will&nbsp; work best for you. This interactive guide is designed to help you find the right tool by answering a few questions that are tailored to earth defender work. Answer the questions by pressing one or more response boxes, and the list of tools below will be filtered accordingly.&nbsp;</p>
-<p>Would you like to share information about a tool not on here yet? Please feel free to <a href="https://forum.earthdefenderstoolkit.com/c/tools-discussion/7" target="_blank" rel="noreferrer noopener">share what you know in the forum</a>.</p>
 <button class="skip-button" id="skip-tools">Skip to the Toolfinder</button>
 <h2 id="skip-anchor">I want to use tools to...</h2>
 <div class="tool-option-group">
@@ -867,3 +865,55 @@ Visit Website </a>
 </div>
 
 <script src="/toolkit.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="//cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+<script>
+				// Used by Gallery Custom Links to handle tenacious Lightboxes
+				jQuery(document).ready(function () {
+
+					function mgclInit() {
+						if (jQuery.fn.off) {
+							jQuery('.no-lightbox, .no-lightbox img').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('.no-lightbox, .no-lightbox img').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.no-lightbox').click(mgclOnClick);
+
+						if (jQuery.fn.off) {
+							jQuery('a.set-target').off('click'); // jQuery 1.7+
+						}
+						else {
+							jQuery('a.set-target').unbind('click'); // < jQuery 1.7
+						}
+						jQuery('a.set-target').click(mgclOnClick);
+					}
+
+					function mgclOnClick() {
+						if (!this.target || this.target == '' || this.target == '_self')
+							window.location = this.href;
+						else
+							window.open(this.href,this.target);
+						return false;
+					}
+
+					// From WP Gallery Custom Links
+					// Reduce the number of  conflicting lightboxes
+					function mgclAddLoadEvent(func) {
+						var oldOnload = window.onload;
+						if (typeof window.onload != 'function') {
+							window.onload = func;
+						} else {
+							window.onload = function() {
+								oldOnload();
+								func();
+							}
+						}
+					}
+
+					mgclAddLoadEvent(mgclInit);
+					mgclInit();
+
+				});
+			</script>
