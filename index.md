@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[jquery](jquery)
+[jquery](/jquery)
 
 ### Jekyll Themes
 
