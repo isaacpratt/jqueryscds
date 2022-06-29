@@ -89,7 +89,7 @@ If you know of a tool that matches these needs, please also feel free to share i
 <div class="box-content" style="padding: 25px;">
 <h2>Āhau</h2>
 
-<p>Āhau is a Whānau (Māori-language word for extended family) Data Platform that helps whānau-based communities capture, preserve, and share important information and histories into secure, whānau managed databases and servers. It is good for maintaining family registries and capturing and preserving cultural heritage, and all data is collected, stored and shared using your own personal devices. Āhau is easily installed on any PC, Mac, or Linux computer. Why use Āhau, in the words of the creators: “You can use Āhau whenever you come across an important piece of information that should be remembered and stored safely for future generations.”</p>
+<p>Āhau is a Whānau (Māori-language word for extended family) Data Platform”</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="http://ahau.io/">
 Visit Website </a>
@@ -118,7 +118,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>ArcGIS Pro &amp; ArcMap</h2>
 
-<p>ArcGIS Pro and ArcMap are geographic information system (GIS) software applications for working with maps and geographic information, maintained by the company Environmental Systems Research Institute (Esri). These tools are used for creating and using maps, compiling geographic data, analyzing mapped information, sharing and discovering geographic information, using maps and geographic information in a range of applications, and managing geographic information in a database. The two applications provide similar tools and functionality - ArcMap (also known as ArcGIS Desktop) is the older software that has been around for almost twenty years, and ArcGIS Pro is a much newer version; eventually, Esri plans on phasing out ArcMap completely in favor of ArcGIS Pro, but they are still maintaining ArcMap because many users are still actively working with it. ArcGIS is considered the industry standard for GIS software, and it is used by many government entities, academics, non-governmental organizations, tribal councils, and others that may contribute to or intersect with projects by earth defender communities. It is, however, proprietary software and can be expensive. In some countries like North America and Canada, it is relatively easy to get access for (registered) Indigenous communities, but elsewhere it can be trickier.&nbsp;</p>
+<p>ArcGIS Pro and ArcMap are geographic information system (GIS) software applications</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://www.esri.com/en-us/arcgis/about-arcgis/overview">
 Visit Website </a>
