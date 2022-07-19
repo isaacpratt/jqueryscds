@@ -9,45 +9,40 @@
 
 <button class="skip-button" id="skip-tools">Skip to the Toolfinder</button>
 <h2 id="skip-anchor">I want to use tools to...</h2>
+
 <div class="tool-option-group">
-<div class="tool-option using-tools" data-terms="make-decisions-around-land-use-and-resource-management">
-Make decisions around land use and resource management </div>
-<div class="tool-option using-tools" data-terms="monitor-threats-or-land-incursions">
-Monitor threats or land incursions </div>
-<div class="tool-option using-tools" data-terms="advocate-for-change-or-petition-for-land-rights">
-Advocate for change, or petition for land rights </div>
-<div class="tool-option using-tools" data-terms="record-and-archive-local-knowledge-and-stories-about-the-land">
-Record and archive local knowledge and stories about the land </div>
-</div>
+  <div class="tool-option using-tools" data-terms="make-decisions-around-land-use-and-resource-management">Make decisions around land use and resource management </div>
+  <div class="tool-option using-tools" data-terms="monitor-threats-or-land-incursions">Monitor threats or land incursions </div>
+  <div class="tool-option using-tools" data-terms="advocate-for-change-or-petition-for-land-rights">Advocate for change, or petition for land rights </div>
+  <div class="tool-option using-tools" data-terms="record-and-archive-local-knowledge-and-stories-about-the-land">Record and archive local knowledge and stories about the land </div>
+
 <h2>I have access to...</h2>
+
 <div class="tool-option-group">
-<div class="tool-option access-to" data-terms="computers-locally-available">
-Computers locally available </div>
-<div class="tool-option access-to" data-terms="smartphones-locally-available">
-Smartphones locally available </div>
-<div class="tool-option access-to" data-terms="drones-locally-available">
-Drones locally available </div>
+  <div class="tool-option access-to" data-terms="computers-locally-available">Computers locally available </div>
+  <div class="tool-option access-to" data-terms="smartphones-locally-available">Smartphones locally available </div>
+  <div class="tool-option access-to" data-terms="drones-locally-available">Drones locally available </div>
 </div>
 
 <button class="skip-button" id="see-tools">See the Tools</button>
 
 <div class="the-tool-kit" id="the-tool-kit">
 <div class="content-section">
-<h2 id="see-tool-anchor">
-</h2>
-<div class="tool-kit-selected-table">
-<div class="tool-kit-selected-section">
-<h2 style="color: white !important;">I am using tools to: </h2>
 
-<div class="grid-list" id="using-tools">
+<h2 id="see-tool-anchor"></h2>
+
+<div class="tool-kit-selected-table">
+  <div class="tool-kit-selected-section">
+  <h2 style="color: white !important;">I am using tools to: </h2>
+    <div class="grid-list" id="using-tools"></div>
+  </div>
+  <div class="tool-kit-selected-section">
+  <h2 style="color: white !important;">I have access to: </h2>
+    <div class="grid-list" id="access-to">
+    </div>
+  </div>
 </div>
-</div>
-<div class="tool-kit-selected-section">
-<h2 style="color: white !important;">I have access to: </h2>
-<div class="grid-list" id="access-to">
-</div>
-</div>
-</div>
+
 <p id="clear-filters" style="color:white;">Clear all filters (<span class="filterNumber">0</span>)</p>
 <p style="color:white !important;">SELECTED TOOLS</p>
 <p></p>
@@ -166,8 +161,6 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>ArcGIS Survey123 &amp; Collector</h2>
 
-
-</ul>
 </div>
 </div>
 </div>
