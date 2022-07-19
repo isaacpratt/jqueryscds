@@ -189,7 +189,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>ArcGIS Survey123 &amp; Collector</h2>
 
-<p>ArcGIS Survey123</p>
+<p>ArcGIS Survey123 and Collector are field data collection applications, maintained by the company Environmental Systems Research Institute (Esri). Both applications allow you to create and fill out custom forms and questionnaires, with the option to collect and update geospatial data including points, lines, and polygons. You can also add the option to take a photo. Like OpenDataKit or KoboToolbox, you can create your own forms and provide your own translations, including the ability to choose between languages. There are also user-friendly web-based interfaces for building these surveys, which makes it really easy to get started using these tools. The way it works is that once you have downloaded a form, you can fill it out while in the field, and then submit the data when you come back online - it will then be collected on ArcGIS Online along with other people’s data submissions. From ArcGIS Online, you can either download the data, or use it in an application like ArcGIS Dashboards or StoryMaps. The main difference between Survey123 and Collector is that you can build more advanced forms using Survey123 with “nested” questions that follow up on one of your previous responses. Also, the interface for Collector is more map-based, similar to an application like Mapeo Mobile, whereas Survey12 is more focused on the form itself. Earth defender communities have used these tools for both mapping and monitoring purposes.</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://doc.arcgis.com/en/survey123/reference/formappcomparision.htm">
 Visit Website </a>

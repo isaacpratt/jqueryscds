@@ -21,7 +21,6 @@
 <div class="tool-option-group">
   <div class="tool-option access-to" data-terms="computers-locally-available">Computers locally available </div>
   <div class="tool-option access-to" data-terms="smartphones-locally-available">Smartphones locally available </div>
-  <div class="tool-option access-to" data-terms="drones-locally-available">Drones locally available </div>
 </div>
 
 <button class="skip-button" id="see-tools">See the Tools</button>
@@ -45,24 +44,21 @@
 
 <p id="clear-filters" style="color:white;">Clear all filters (<span class="filterNumber">0</span>)</p>
 <p style="color:white !important;">SELECTED TOOLS</p>
-<p></p>
+
 <div class="tool-kit-results">
 
-<p class="no-results">
+<p class="no-results">No tools meet these criteria. If you would like to share more about your needs with the Earth Defenders Toolkit community to see if somebody can help, please feel free to post in the <a href="http://forum.earthdefenderstoolkit.com/">Forum</a>.</p>
 
-No tools meet these criteria. If you would like to share more about your needs with the Earth Defenders Toolkit community to see if somebody can help, please feel free to post in the <a href="http://forum.earthdefenderstoolkit.com/">Forum</a>.
-<br><br></p>
 <div class="result-box" data-terms=" computers-locally-available have-access-to is-entirely-free-to-use is-simple-and-easy-to-use need-a-tool-that record-and-archive-local-knowledge-and-stories-about-the-land resources using-tools-to will-enable-us-to-have-local-or-offline-control-of-our-data will-help-us-share-and-publish-data-online works-in-remote-and-offline-areas">
 <div class="box-image">
 <img src="https://www.earthdefenderstoolkit.com/wp-content/uploads/2021/06/5f6978aec526abb54bd5fa09_desktop-whakapapa.png" width="200" alt="logo">
 </div>
+
 <div class="box-content" style="padding: 25px;">
 <h2>Āhau</h2>
-
 <p>Āhau is a Whānau (Māori-language word for extended family) Data Platform”</p>
- <div style="margin-top: 30px;">
-<a class="orange-button" target="_blank" href="http://ahau.io/">
-Visit Website </a>
+<div style="margin-top: 30px;">
+<a class="orange-button" target="_blank" href="http://ahau.io/">Visit Website</a>
 </div>
 <p class="expand-button" style="margin-top: 30px; text-decoration: underline;
                 font-weight: bold; cursor: pointer;
@@ -71,101 +67,11 @@ Visit Website </a>
 <ul>
 <li>Built with principles of data sovereignty front of mind by an Indigenous-led team.</li>
 <li>User-friendly interface that feels like a social networking application.</li>
-<li>Decentralized, peer-to-peer data storage (no centralized servers).</li>
-<li>The software is free and open-source.</li>
 </ul>
 <p><strong>CONS:</strong></p>
 <ul>
 <li>Right now, it’s difficult to customize the application for non-Māori usage, but the Āhau team is willing to work with any community across the globe to help adapt the software.</li>
 </ul>
-</div>
-</div>
-</div>
-<div class="result-box" data-terms=" computers-locally-available have-access-to make-decisions-around-land-use-and-resource-management monitor-threats-or-land-incursions need-a-tool-that record-and-archive-local-knowledge-and-stories-about-the-land resources using-tools-to will-enable-us-to-have-local-or-offline-control-of-our-data will-help-us-share-and-publish-data-online works-in-remote-and-offline-areas">
-<div class="box-image">
-<img src="https://www.earthdefenderstoolkit.com/wp-content/uploads/2021/06/arcgis.jpg" width="200" alt="logo">
-</div>
-<div class="box-content" style="padding: 25px;">
-<h2>ArcGIS Pro &amp; ArcMap</h2>
-
-<p>ArcGIS Pro and ArcMap are geographic information system (GIS) software applications</p>
- <div style="margin-top: 30px;">
-<a class="orange-button" target="_blank" href="https://www.esri.com/en-us/arcgis/about-arcgis/overview">
-Visit Website </a>
-</div>
-<p class="expand-button" style="margin-top: 30px; text-decoration: underline;
-                font-weight: bold; cursor: pointer;
-                color: rgb(43, 56, 65);">Learn More <span class="arrow-show">↓</span></p>
-<div class="expand-content"><p><strong>PROS</strong>:</p>
-<ul>
-<li>ArcGIS Pro and ArcMap are comprehensive tools that combine data processing, geospatial analysis, cartography and mapmaking in one.</li>
-<li>Both softwares work entirely offline, and your data can be stored locally.</li>
-<li>ArcGIS Pro in particular has a modern design and user interface.</li>
-<li>All of the different ArcGIS tools (ArcGIS Pro and ArcMap, ArcGIS StoryMaps and Dashboards, ArcGIS Survey123 and Collector)&nbsp; are deeply integrated and it is very easy to transfer data and maps between them.</li>
-<li>The software is frequently upgraded, and Esri staff actively addresses any bugs reported by users.</li>
-<li>The software has an active and wide user base.</li>
-</ul>
-<p><strong>CONS</strong>:</p>
-<ul>
-<li>ArcGIS can cost money to maintain, depending on your ability to access licensing.</li>
-<li>ArcGIS Pro and ArcMap offer hundreds of different tools and functions, which may be overwhelming for users with limited technical knowledge.</li>
-<li>ArcGIS Pro and ArcMap have a high learning curve.</li>
-<li>The company Esri is building its entire suite of tools towards increased internet integration with ArcGIS Online, which may become problematic in the future for offline users.</li>
-<li>There is no support for translation to local languages.</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="result-box" data-terms=" advocate-for-change-or-petition-for-land-rights computers-locally-available have-access-to is-simple-and-easy-to-use monitor-threats-or-land-incursions need-a-tool-that record-and-archive-local-knowledge-and-stories-about-the-land resources using-tools-to will-help-us-share-and-publish-data-online">
-<div class="box-image">
-<img src="https://www.earthdefenderstoolkit.com/wp-content/uploads/2021/06/collage-1.png" width="200" alt="logo">
-</div>
-<div class="box-content" style="padding: 25px;">
-<h2>ArcGIS StoryMaps &amp; Dashboard</h2>
-
-<p>ArcGIS StoryMaps</p>
- <div style="margin-top: 30px;">
-<a class="orange-button" target="_blank" href="https://doc.arcgis.com/en/arcgis-storymaps/get-started/what-is-arcgis-storymaps.htm">
-Visit Website </a>
-</div>
-<p class="expand-button" style="margin-top: 30px; text-decoration: underline;
-                font-weight: bold; cursor: pointer;
-                color: rgb(43, 56, 65);">Learn More <span class="arrow-show">↓</span></p>
-<div class="expand-content"><p><strong>PROS</strong>:</p>
-<ul>
-<li>ArcGIS StoryMaps is easy to use, and doesn’t require any technical knowledge.</li>
-<li>ArcGIS StoryMaps look really nice on both computers and phones.</li>
-<li>Once set up, ArcGIS Dashboards function really well and will dynamically analyze geospatial data once updated.</li>
-<li>All of the different ArcGIS tools (ArcGIS Pro and ArcMap, ArcGIS StoryMaps and Dashboards, ArcGIS Survey123 and Collector) are deeply integrated and it is very easy to transfer data and maps between them.</li>
-<li>ArcGIS StoryMaps and Dashboards can incorporate data submitted by Survey123 or Collector directly, as they are submitted and without need for processing.</li>
-<li>The public-facing text from both tools can be translated into any language.</li>
-<li>The software is frequently upgraded, and Esri staff actively addresses any bugs reported by users.</li>
-<li>The software has an active and wide user base.</li>
-</ul>
-<p><strong>CONS</strong>:</p>
-<ul>
-<li>ArcGIS can cost money to maintain, depending on your ability to access licensing.</li>
-<li>ArcGIS Dashboards has a moderate learning curve.</li>
-<li>In most cases, you will need to upload and host your data on ArcGIS Online.</li>
-<li>For sharing data on public ArcGIS StoryMaps and Dashboards, you will need to set all of your data to be publicly accessible as well, which means other ArcGIS users can use the data in their own maps. You need to be very careful with how you add data to ArcGIS Online, because you may end up accidentally sharing confidential or private information attached to a shapefile intended for visualization.</li>
-<li>It is possible that as Esri develops newer templates, existing ones become “deprecated” meaning they will stop supporting them over time and they may become buggy after a long time.</li>
-<li>Neither tool works offline.</li>
-</ul>
-</div>
-</div>
-</div>
-<div class="result-box" data-terms=" have-access-to is-simple-and-easy-to-use is-translatable-to-local-minority-languages make-decisions-around-land-use-and-resource-management monitor-threats-or-land-incursions need-a-tool-that record-and-archive-local-knowledge-and-stories-about-the-land resources smartphones-locally-available using-tools-to will-help-us-share-and-publish-data-online works-in-remote-and-offline-areas">
-<div class="box-image">
-<img src="https://www.earthdefenderstoolkit.com/wp-content/uploads/2021/06/Untitled-2.png" width="200" alt="logo">
-</div>
-<div class="box-content" style="padding: 25px;">
-<h2>ArcGIS Survey123 &amp; Collector</h2>
-
-</div>
-</div>
-</div>
-</div>
-</div>
 </div>
 </div>
 
