@@ -189,7 +189,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>ArcGIS Survey123 &amp; Collector</h2>
 
-<p>ArcGIS Survey123 and Collector are field data collection applications, maintained by the company Environmental Systems Research Institute (Esri). Both applications allow you to create and fill out custom forms and questionnaires, with the option to collect and update geospatial data including points, lines, and polygons. You can also add the option to take a photo. Like OpenDataKit or KoboToolbox, you can create your own forms and provide your own translations, including the ability to choose between languages. There are also user-friendly web-based interfaces for building these surveys, which makes it really easy to get started using these tools. The way it works is that once you have downloaded a form, you can fill it out while in the field, and then submit the data when you come back online - it will then be collected on ArcGIS Online along with other people’s data submissions. From ArcGIS Online, you can either download the data, or use it in an application like ArcGIS Dashboards or StoryMaps. The main difference between Survey123 and Collector is that you can build more advanced forms using Survey123 with “nested” questions that follow up on one of your previous responses. Also, the interface for Collector is more map-based, similar to an application like Mapeo Mobile, whereas Survey12 is more focused on the form itself. Earth defender communities have used these tools for both mapping and monitoring purposes.</p>
+<p>ArcGIS Survey123</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://doc.arcgis.com/en/survey123/reference/formappcomparision.htm">
 Visit Website </a>
@@ -701,7 +701,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>QGIS</h2>
 
-<p>QGIS is a free and open-source cross-platform desktop geographic information system (GIS) application that supports viewing, editing, and analysis of geospatial data. It is the most powerful and commonly used GIS software that is open-source and free to use. QGIS provides much of the same core functionality as Esri's ArcMap and ArcGIS Pro software, including processing analyzing raster and vector layers, georeferencing images, analyzing satellite imagery, and designing cartographic maps. It is however not as easy to use as Esri's tools, lacks some of the more advanced mapping functionalities, and has only limited support for web mapping. Many earth defender communities use QGIS in tandem with data collection tools such as Mapeo, OpenDataKit, Sapelli, GPS handheld units, and others; once data has been collected and minimally processed within those applications, it is exported to QGIS for more sophisticated data organization, analysis, exporting, and cartography. QGIS has a wide community of users globally, and there are both forums to ask questions and numerous tutorials for using QGIS.</p>
+<p>QGIS</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://www.qgis.org/en/site/">
 Visit Website </a>
@@ -731,7 +731,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>Sapelli</h2>
 
-<p>The Sapelli Collector software aims to enable people with no or limited literacy – in the strict and broader technological sense – to use smartphones and tablets to collect, share, and analyse (spatial) data. Sapelli is used in a variety of projects related to environmental monitoring. It enables communities, regardless of social and geographical background, to map their environment and any threats it faces. The Sapelli Collector application can be used to create forms that use a visual language that enables a user to collect data or monitor threats without needing to read any text. The reports may be sent via SMS, WiFi, or data to a server called GeoKey which has a special data structure and user rights management attuned to community needs. Sapelli has been used by forest communities in Africa to report on illegal wildlife crime. The Sapelli Collector software was developed by the Extreme Citizen Science (ExCiteS) research group at University College London.</p>
+<p>The Sapelli Collector</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="http://www.sapelli.org/">
 Visit Website </a>
@@ -766,7 +766,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>Terrastories</h2>
 
-<p>Terrastories is a web application for communities to map, protect, and share stories about their land. It can be used by individuals or communities who want to connect audio or video content to places on a map. It is designed to be user-friendly and fun to interact with, allowing community members to freely explore without needing any technical background. Terrastories began when a team of geographers and software developers decided to start building Terrastories to help a community in South America map their place-based oral histories. The Matawai Maroons of Suriname, a community of formerly enslaved Africans who fled into the forests over three centuries ago and reside there today, wanted to map oral histories about when their ancestors first arrived in these lands. The community leaders were interested in having a tool that helps the young people get to know these places, their history, their culture, and who they are as a people. Terrastories was built to accommodate that need, which the team also heard about from other communities across the globe.</p>
+<p>Terrastories.</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://www.earthdefenderstoolkit.com/toolkit/terrastories-a-tool-for-place-based-storytelling/">
 Visit Website </a>
@@ -802,7 +802,7 @@ Visit Website </a>
 <div class="box-content" style="padding: 25px;">
 <h2>TIMBY</h2>
 
-<p>TIMBY (This Is My BackYard) is a digital suite of tools for reporting and monitoring built for citizen journalists and activists. TIMBY consists of three intercompatible tools: a reporting app, an investigation dashboard, and a storytelling tool. Users can utilize the encrypted reporting app to create reports, which can be synced with the dashboard for further aggregation with other reports, analysis, and data visualization. They can also use the storytelling tool to turn field reports into a published narrative for advocacy or citizen journalism purposes. TIMBY has been used extensively in Africa and Southeast Asia, particularly by civil society organizations but also some Indigenous groups. The TIMBY team has project managers and access to lawyers and journalists for communities that may need additional support.</p>
+<p>TIMBY (This Is My BackYard)</p>
  <div style="margin-top: 30px;">
 <a class="orange-button" target="_blank" href="https://timby.org/">
 Visit Website </a>
